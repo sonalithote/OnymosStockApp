@@ -23,3 +23,5 @@ Stock trading engine that matches Buy and Sell orders for multiple tickers.
  Concurrency:
  - Uses threading and locks for thread-safe operations
 """
+To run the code, first save the file and navigate to the directory where the file is saved then open the terminal and run the cmd "python stockEngine.py", this will start generating random real-time logs of orders being added and matched in the terminal.
+To stop the order generation press "cmd+C" or stop if running it in a studio.
